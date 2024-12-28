@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "author": "Vinicius Testa Passos",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "board-esp32-devkit-c-v4", "id": "esp", "top": 0, "left": 0, "attrs": {} },
+    {
+      "type": "wokwi-led",
+      "id": "led1",
+      "top": -99.6,
+      "left": 32.6,
+      "attrs": { "color": "limegreen" }
+    },
+    {
+      "type": "wokwi-resistor",
+      "id": "r1",
+      "top": 14.4,
+      "left": -67.75,
+      "rotate": 90,
+      "attrs": { "value": "1000" }
+    }
+  ],
+  "connections": [
+    [ "esp:TX", "$serialMonitor:RX", "", [] ],
+    [ "esp:RX", "$serialMonitor:TX", "", [] ],
+    [ "esp:32", "led1:A", "green", [ "h-14.21", "v-115.2", "h67.2" ] ],
+    [ "led1:C", "r1:1", "black", [ "v19.2", "h-18.8" ] ],
+    [ "r1:2", "esp:GND.1", "black", [ "h0", "v66" ] ]
+  ],
+  "dependencies": {}
+}

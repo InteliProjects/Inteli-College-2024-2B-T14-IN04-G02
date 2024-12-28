@@ -1,0 +1,141 @@
+﻿Controle do Documento
+Histórico de revisões
+Data
+	Autor
+	Versão
+	Resumo da atividade
+	<xx/xx/xxxx>
+	<nome>
+	<número da sprint.número sequencial>
+Exemplo: 2.6
+	<descrever o que foi atualizado nesta versão>
+Exemplo: Criação do documento
+Exemplo: Atualização da seção 2.7
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	________________
+
+
+Índice
+
+
+
+
+1. Componentes e Recursos (sprint 4)        2
+1.1. Componentes externos        2
+1.2. Requisitos de conectividade        3
+2. Guia de Montagem (sprint 4)        3
+3. Guia de Instalação (sprint 4)        4
+4. Guia de Configuração (sprint 4)        5
+5. Guia de Operação (sprint 4)        6
+6. Como descartar este dispositivo        7
+7. Troubleshooting (sprint 4)        7
+
+
+________________
+
+
+1. Componentes e Recursos (sprint 4)
+
+
+1.1. Componentes externos
+Liste aqui componentes como computadores, tablets e/ou celulares que deverão fazer parte da sua solução, bem como eventuais serviços em nuvem, softwares de edição de código ou outras aplicações utilizadas.
+
+
+1.2. Requisitos de conectividade
+Liste aqui as redes, protocolos de rede e eventuais especificações de back-end, necessários para o funcionamento dos dispositivos.
+Exemplo de uso de imagem em coluna única:
+
+
+  
+
+Figura 1: use sempre uma legenda e mencione o número
+ da figura no corpo do texto. Cuidado para que detalhes 
+da imagem não fiquem ilegíveis, como na imagem.
+________________
+2. Guia de Montagem (sprint 4)
+Descreva passo-a-passo como montar fisicamente os dispositivos IoT de sua solução, mencionando os componentes da seção 2.
+Utilize diagramas e fotografias para ilustrar o processo de montagem (você pode ser bem didático e explicar até quais as ferramentas necessárias). Utilize exatamente os mesmos nomes/modelos de componentes listados na seção 2.
+
+
+Exemplo de imagem que extrapola uma coluna:   
+
+
+
+
+
+
+
+
+________________
+  
+
+3. Guia de Instalação (sprint 4)
+Descreva passo-a-passo como instalar os dispositivos IoT no espaço físico adequado, conectando-os à rede, de acordo com o que foi levantado com seu parceiro de negócios.
+Não deixe de especificar propriedades, limites e alcances dos dispositivos em relação ao espaço destinado. 
+Especifique também como instalar softwares nos dispositivos. 
+Utilize fotografias, prints de tela e/ou desenhos técnicos para ilustrar o processo de instalação. 
+________________
+4. Guia de Configuração (sprint 4)
+Descreva passo-a-passo como configurar os dispositivos IoT utilizando os equipamentos devidos (ex. smartphone/computador acessando o servidor embarcado ou a página na nuvem). 
+Utilize fotografias, prints de tela e/ou desenhos técnicos para ilustrar o processo de configuração.
+________________
+
+
+5. Guia de Operação (sprint 4)
+Descreva os fluxos de operação entre interface e dispositivos IoT. Indique o funcionamento das telas, como fazer leituras dos dados dos sensores, como disparar ações através dos atuadores, como reconhecer estados do sistema. 
+Indique também informações relacionadas à imprecisão das eventuais localizações, e como o usuário deve contornar tais situações.
+Utilize fotografias, prints de tela e/ou desenhos técnicos para ilustrar os processos de operação.
+________________
+
+
+6. Como descartar este dispositivo 
+Posicione aqui seu plano de descarte, relacionando instruções, cuidados ao manipular, e listando cada grupo de componentes com uma maneira adequada de descarte
+________________
+7. Troubleshooting (sprint 4)
+Liste as situações de falha mais comuns da sua solução (tais como falta de conectividade, falta de bateria, componente inoperante etc.) e indique ações para solução desses problemas. 
+
+
+#
+	Problema
+	Possível solução
+	1
+	
+
+	
+
+	2
+	
+
+	
+
+	3
+	
+
+	
+
+	4
+	
+
+	
+
+	5
+	
+
+	
+
+	________________
